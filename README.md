@@ -1,10 +1,10 @@
-# Shine.com Job Application Automation 🤖
+# Shine.com Job Application Automation 
 
 An automated job application project developed using **Python and Selenium WebDriver** to simplify the job application process on Shine.com.
 
 The project automates browser interactions, including website navigation, user login, job searching, job selection, applying for a job, and checking application status.
 
-## 🚀 Features
+##  Features
 
 - Automated browser initialization using Selenium WebDriver.
 - Automatic navigation to Shine.com.
@@ -16,7 +16,7 @@ The project automates browser interactions, including website navigation, user l
 - Automatic screenshots at different stages of execution.
 - Explicit waits for reliable browser interactions.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Selenium WebDriver
@@ -24,7 +24,7 @@ The project automates browser interactions, including website navigation, user l
 - ChromeDriver
 - Web Automation
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 shine-job-application-automation/
@@ -38,7 +38,7 @@ shine-job-application-automation/
     └── (Optional execution screenshots)
 ```
 
-## ⚙️ Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the Repository
 
@@ -72,7 +72,7 @@ Store your Shine.com login credentials securely using environment variables. Nev
 python shine_job_apply.py
 ```
 
-## 🔄 Workflow
+##  Workflow
 
 1. Launch the Chrome browser.
 2. Open Shine.com.
@@ -87,17 +87,17 @@ python shine_job_apply.py
 11. Capture screenshots for execution tracking.
 12. Close the browser.
 
-## 📸 Screenshots
+##  Screenshots
 
 Execution screenshots can be added here to demonstrate the automation workflow.
 
-## 🎯 Project Objective
+##  Project Objective
 
 The primary objective of this project is to reduce repetitive manual activities involved in online job applications through browser automation.
 
 It demonstrates practical implementation of Selenium WebDriver, dynamic web element handling, browser interaction, explicit waits, and automation workflows.
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Automate job filtering based on skills and experience.
 - Support multiple job listings.
@@ -107,11 +107,11 @@ It demonstrates practical implementation of Selenium WebDriver, dynamic web elem
 - Develop a configurable dashboard.
 - Extend automation to additional job portals.
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This project is developed for educational and automation practice purposes. Use it responsibly and comply with Shine.com's terms of service and applicable website policies. Review job details and application information before submitting applications.
 
-## 👨‍💻 Author
+##  Author
 
 **Durga Prasad**
 
