@@ -1,4 +1,4 @@
-# Shine.com Job Application Automation 
+# Job Application Automation 
 
 An automated job application project developed using **Python and Selenium WebDriver** to simplify the job application process on Shine.com.
 
