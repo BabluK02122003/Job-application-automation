@@ -5,8 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-service = ChromeService(executable_path=r"C:\Users\ASUS\OneDrive\Desktop\Eclipse\chromedriver-win64\chromedriver.exe")
-driver = webdriver.Chrome(service=service)
+driver = webdriver.Chrome()
 driver.maximize_window()
 
 try:
@@ -23,8 +22,8 @@ try:
     driver.save_screenshot('01_login_popup.png')
     time.sleep(2)
 
-    email = "abcdefgh"
-    password = "**********"
+    email = "SHINE_EMAIL"
+    password = "SHINE_PASSWORD"
 
     email_field = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.CSS_SELECTOR, "input[type='email'], input[name='email']"))
