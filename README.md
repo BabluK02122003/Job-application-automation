@@ -43,13 +43,13 @@ shine-job-application-automation/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/shine-job-application-automation.git
+git clone https://github.com/BabluK02122003/Job-application-automation.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd shine-job-application-automation
+cd Job-application-automation
 ```
 
 ### 3. Install Dependencies
